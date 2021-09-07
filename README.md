@@ -1,2 +1,2 @@
 # leader-election
-implementing leader-election algorithm with zookeeper &amp; maven
+implementing leader-election algorithm in Java with zookeeper &amp; maven
